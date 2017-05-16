@@ -1,0 +1,39 @@
+header  {
+  background-color: black;
+}
+.bas {
+  border: 2px solid green;
+}
+#jamesBond {
+  border-radius: 50%;
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section {
+  background-image: url("panda.jpg");
+  background-size: auto 40px;
+  background-repeat: repeat;
+}
+
+footer div {
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+  margin-right: auto;
+}
+footer {
+background-color: black;
+}
+aside {
+  float: left;
+  border: 2px solid black;
+  width: 150px;
+  background-color: rgba(0, 0, 155, 0.5);
+}
+footer div {
+  color: white;
+}
+header footer 
